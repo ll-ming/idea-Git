@@ -7,5 +7,7 @@ public class GitTest {
         System.out.println("idea使用git测试项目");
 
         System.out.println("哈哈哈哈哈");
+
+        System.out.println("嘻嘻嘻嘻嘻");
     }
 }
